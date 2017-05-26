@@ -1,0 +1,15 @@
+[home]
+path = /
+label = Home
+
+[Projekte]
+path = /projects
+label = Projekte
+
+[blog]
+path = /blog
+label = Blog
+
+[about]
+path = /about
+label = Impressum
