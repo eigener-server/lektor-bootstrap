@@ -1,2 +1,6 @@
 [project]
 name = project
+url = https://www.eigener-server.ch
+locale = de_DE
+url_style = relative
+

@@ -1,11 +1,10 @@
-title: Welcome to project!
+title: Willkommen zur KMU Cloud.
 ---
 body:
 
-This is a basic demo website that shows how to use Lektor for a basic
-website with some pages and a blog.
+Die Statistik Seite vom [haproxy](/static/haproxy.php) erreichst Du über eine php Weiterleitung auf den Port 1936.
 
-[nextcloud](/nextcloud)
-[haproxy](:1936)
-[lektor](:5000)
+Das gleiche gilt für die [Lektor Webseite](/static/lektor.php).
+
+Ihr Link zu Ihrer [Nextcloud](/nextcloud)
 
